@@ -18,6 +18,6 @@ PROJECT Links:
 Youtube Link: https://youtu.be/OBTuXF6gRFY
 Google Drive Link: https://drive.google.com/drive/folders/1S5XDiWecDe6Vtl8xON146vEeGmPbg8bu?usp=sharing
 Google Drive All resource: https://drive.google.com/drive/folders/1RN6Db-cdMttpFNF20GKzCvC_9xF81se5?usp=sharing
-Github Link : https://github.com/rajanstha7/NASA-CHALLENGE
+Github Link : https://github.com/Smriti123-Tiwari/NASA-APP-CHALLENGE-2020
 
 Thanks !!!  
